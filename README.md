@@ -8,36 +8,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer**, **Data Analyst**, and **Fullstack Developer** based in **Kigali, Rwanda** 🇷🇼. I specialize in building intelligent systems, analyzing complex data, and creating seamless web experiences.
+I'm a passionate **Fullstack Developer**, **AI Engineer**, and **Data Analyst** based in **Kigali, Rwanda** 🇷🇼. I specialize in building intelligent systems, analyzing complex data, and creating seamless web experiences.
 
-- 🔭 Currently working on AI-powered applications and GPU-accelerated solutions
-- 🌱 Exploring advanced machine learning models and edge computing
+- 🔭 Currently working on AI-powered Fullstack applications and GPU-accelerated solutions
+- 🌱 Exploring integrating AI with modern web applications
 - 💡 Love combining AI with practical real-world applications
 - 🎯 Goal: Making AI accessible and impactful for everyone
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mosesmucyo) | [Facebook](https://web.facebook.com/mosesmucyo)
 
 ## 💼 Technical Skills
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge&logo=google&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**Specializations:** Reinforcement Learning • Supervised Learning • Deep Learning • Neural Networks • PCA • Clustering
-
-### 📊 Data Analysis & Business Intelligence
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 💻 Fullstack Development
 
@@ -74,6 +53,27 @@ I'm a passionate **AI Engineer**, **Data Analyst**, and **Fullstack Developer** 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge&logo=google&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Specializations:** Reinforcement Learning • Supervised Learning • Deep Learning • Neural Networks • PCA • Clustering
+
+### 📊 Data Analysis & Business Intelligence
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## 🌟 Featured Projects
 
@@ -178,7 +178,7 @@ class MosesMucyo:
         self.name = "Moses Mucyo"
         self.role = ["AI Engineer", "Data Analyst", "Fullstack Developer"]
         self.location = "Kigali, Rwanda 🇷🇼"
-        self.languages = ["Python", "JavaScript", "Dart", "Rust", "HTML/CSS"]
+        self.languages = ["Python", "Java", "Springboot", "NestJS", "JavaScript", "Dart", "Rust", "HTML/CSS"]
         self.current_focus = ["AI/ML Models", "GPU Acceleration", "Mobile Apps", "Web Development"]
         
     def say_hi(self):
